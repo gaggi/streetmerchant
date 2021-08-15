@@ -107,6 +107,61 @@ export const Mindfactory: Store = {
       series: 'ryzen5950',
       url: 'https://www.mindfactory.de/product_info.php/AMD-Ryzen-9-5950X-16x-3-40GHz-So-AM4-WOF_1380729.html',
     },
+    // #region 6600xt
+    {
+      brand: 'powercolor',
+      model: 'hellhound oc',
+      series: 'rx6600xt',
+      url: 'https://www.mindfactory.de/product_info.php/8GB-PowerColor-Radeon-RX-6600-XT-Hellhound-OC-8G-retail_1421365.html',
+    },
+    {
+      brand: 'xfx',
+      model: 'quick',
+      series: 'rx6600xt',
+      url: 'https://www.mindfactory.de/product_info.php/8GB-XFX-Radeon-RX-6600-XT-QICK308-BLACK-GAMING-retail_1420510.html',
+    },
+    {
+      brand: 'sapphire',
+      model: 'pulse oc',
+      series: 'rx6600xt',
+      url: 'https://www.mindfactory.de/product_info.php/8GB-Sapphire-Radeon-RX-6600-XT-Pulse-OC-Gaming-DDR6--Retail-_1420496.html',
+    },
+    {
+      brand: 'msi',
+      model: 'mech 2x oc',
+      series: 'rx6600xt',
+      url: 'https://www.mindfactory.de/product_info.php/8GB-MSI-Radeon-RX-6600-XT-MECH-2X-OC-retail_1421325.html',
+    },
+    {
+      brand: 'powercolor',
+      model: 'red devil',
+      series: 'rx6600xt',
+      url: 'https://www.mindfactory.de/product_info.php/8GB-PowerColor-Radeon-RX-6600-XT-Red-Devil-8G-OC-retail_1421366.html',
+    },
+    {
+      brand: 'msi',
+      model: 'gaming x',
+      series: 'rx6600xt',
+      url: 'https://www.mindfactory.de/product_info.php/8GB-MSI-Radeon-RX-6600-XT-Gaming-X-retail_1421324.html',
+    },
+    {
+      brand: 'xfx',
+      model: 'merc',
+      series: 'rx6600xt',
+      url: 'https://www.mindfactory.de/product_info.php/8GB-XFX-Radeon-RX-6600-XT-MERC308-BLACK-GAMING-retail_1420509.html',
+    },
+    {
+      brand: 'sapphire',
+      model: 'nitro+ oc',
+      series: 'rx6600xt',
+      url: 'https://www.mindfactory.de/product_info.php/8GB-Sapphire-Radeon-RX-6600-XT-Nitro--OC-Gaming-DDR6--Retail-_1420497.html',
+    },
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc pro',
+      series: 'rx6600xt',
+      url: 'https://www.mindfactory.de/product_info.php/8GB-Gigabyte-Radeon-RX-6600-XT-Gaming-OC-Pro-GDDR6-2xHDMI-2xDP_1420489.html',
+    },
     // #region 6800
     {
       brand: 'gigabyte',
