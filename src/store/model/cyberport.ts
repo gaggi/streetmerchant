@@ -119,6 +119,36 @@ export const Cyberport: Store = {
       series: 'ryzen5950',
       url: 'https://www.cyberport.de?DEEP=2001-71l',
     },
+    {
+      brand: 'gigabyte',
+      model: 'eagle',
+      series: 'rx6600xt',
+      url: 'https://www.cyberport.de?DEEP=2e21-328',
+    },
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: 'rx6600xt',
+      url: 'https://www.cyberport.de?DEEP=2e21-329',
+    },
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc pro',
+      series: 'rx6600xt',
+      url: 'https://www.cyberport.de?DEEP=2e21-32a',
+    },
+    {
+      brand: 'sapphire',
+      model: 'nitro+ oc',
+      series: 'rx6600xt',
+      url: 'https://www.cyberport.de?DEEP=2e01-7ju',
+    },
+    {
+      brand: 'xfx',
+      model: 'merc308 black',
+      series: 'rx6600xt',
+      url: 'https://www.cyberport.de?DEEP=2001-71l',
+    },
   ],
   name: 'cyberport',
 };

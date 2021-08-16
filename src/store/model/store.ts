@@ -31,9 +31,11 @@ export type Brand =
   | 'palit'
   | 'pny'
   | 'sapphire'
+  | 'seagate'
   | 'sony'
   | 'xfx'
   | 'powercolor'
+  | 'westerndigital'
   | 'zotac';
 
 export type Series =
@@ -60,7 +62,10 @@ export type Series =
   | 'sonyps5de'
   | 'sf'
   | 'xboxsx'
-  | 'xboxss';
+  | 'xboxss'
+  | 'usb14tb'
+  | 'usb16tb'
+  | 'usb18tb';
 
 export type Model =
   | 'test:model'
@@ -89,6 +94,7 @@ export type Model =
   | 'challenger'
   | 'challenger pro'
   | 'crosshair viii'
+  | 'desktop expansion'
   | 'dual fan'
   | 'dual oc'
   | 'dual'
@@ -96,11 +102,13 @@ export type Model =
   | 'dual mini oc'
   | 'eagle oc'
   | 'eagle'
+  | 'elements'
   | 'ekwb'
   | 'epic x'
   | 'ex'
   | 'ex gamer'
   | 'ex oc'
+  | 'fighter'
   | 'founders edition'
   | 'ftw3'
   | 'ftw3 black'
@@ -144,9 +152,12 @@ export type Model =
   | 'ko'
   | 'master'
   | 'mech 2x oc'
+  | 'mech 2x'
   | 'merc'
   | 'merc core'
   | 'merc ultra'
+  | 'merc308 black'
+  | 'my book'
   | 'nitro+'
   | 'nitro+ se'
   | 'nitro+ oc'

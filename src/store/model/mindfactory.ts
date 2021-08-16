@@ -3,12 +3,23 @@ import {Store} from './store';
 export const Mindfactory: Store = {
   currency: '€',
   labels: {
+    captcha: {
+      container: 'body',
+      text: [
+        'bitte den angezeigten code eingeben',
+      ],
+    },
+    captchaHandler: {
+      challenge: 'img[class="code"]',
+      input: 'input[name="vvcode"]',
+      submit: 'button[type="submit"]',
+    },
     inStock: {
-      container: '.pshipping',
+      container: '.hidden-xs.hidden-sm > a',
       text: ['lagernd', 'verfügbar'],
     },
     maxPrice: {
-      container: 'div[class="pprice"]',
+      container: '#priceCol > div.pprice',
       euroFormat: true,
     },
     outOfStock: {
@@ -258,6 +269,42 @@ export const Mindfactory: Store = {
       url: 'https://www.mindfactory.de/product_info.php/16GB-XFX-Radeon-RX-6900-XT-DDR6-Drei-Luefter-256bit_1388333.html',
     },
     // #endregion
+    {
+      brand: 'westerndigital',
+      model: 'elements',
+      series: 'usb16tb',
+      url: 'https://www.mindfactory.de/product_info.php/16000GB-WD-Elements-Desktop-3-0-externe-HDD-Festplatte_1385953.html',
+    },
+    {
+      brand: 'westerndigital',
+      model: 'elements',
+      series: 'usb14tb',
+      url: 'https://www.mindfactory.de/product_info.php/14000GB-Elements-Desktop-schwarz--USB-3-0-Micro-B--WDBWLG0140HBK-_1342876.html',
+    },
+    {
+      brand: 'westerndigital',
+      model: 'elements',
+      series: 'usb18tb',
+      url: 'https://www.mindfactory.de/product_info.php/18000GB-WD-Elements-Desktop-schwarz--USB-3-0-Micro-B--WDBWLG0180HBK-_1393730.html',
+    },
+    {
+      brand: 'westerndigital',
+      model: 'my book',
+      series: 'usb18tb',
+      url: 'https://www.mindfactory.de/product_info.php/18000GB-WD-My-Book-USB-3-0-Desktop-Festplatte-mit-Passwortschutz-und-au_1385952.html',
+    },
+    {
+      brand: 'westerndigital',
+      model: 'my book',
+      series: 'usb16tb',
+      url: 'https://www.mindfactory.de/product_info.php/16000GB-WD-My-Book-USB-3-0-Desktop-Festplatte-mit-Passwortschutz-und-au_1385951.html',
+    },
+    {
+      brand: 'seagate',
+      model: 'desktop expansion',
+      series: 'usb18tb',
+      url: 'https://www.mindfactory.de/product_info.php/18000GB-Seagate-Desktop-Expansion-Drive_1417974.html',
+    },
   ],
   name: 'mindfactory',
 };

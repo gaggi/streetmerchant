@@ -291,6 +291,48 @@ export const Notebooksbilliger: Store = {
       url: 'https://www.notebooksbilliger.de/zotac+gaming+geforce+rtx+3090+trinity+24gb+gddr6x+grafikkarte+677550',
     },
     {
+      brand: 'asrock',
+      model: 'challenger pro',
+      series: 'rx6600xt',
+      url: 'https://www.notebooksbilliger.de/asrock+radeon+rx+6600+xt+challenger+pro+8gb+oc+grafikkarte+728583',
+    },
+    {
+      brand: 'powercolor',
+      model: 'hellhound oc',
+      series: 'rx6600xt',
+      url: 'https://www.notebooksbilliger.de/powercolor+rx+6600xt+hellhound+oc+8g+grafikkarte+728575',
+    },
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: 'rx6600xt',
+      url: 'https://www.notebooksbilliger.de/gigabyte+radeon+rx+6600+xt+gaming+oc+8g+grafikkarte+727616',
+    },
+    {
+      brand: 'asus',
+      model: 'strix',
+      series: 'rx6600xt',
+      url: 'https://www.notebooksbilliger.de/asus+rog+strix+radeon+rx+6600xt+oc+8gb+grafikkarte+728734',
+    },
+    {
+      brand: 'sapphire',
+      model: 'nitro+',
+      series: 'rx6600xt',
+      url: 'https://www.notebooksbilliger.de/sapphire+nitro+radeon+rx+6600+xt+grafikkarte+728520',
+    },
+    {
+      brand: 'powercolor',
+      model: 'red devil',
+      series: 'rx6600xt',
+      url: 'https://www.notebooksbilliger.de/powercolor+rx+6600xt+red+devil+8g+oc+grafikkarte+728573',
+    },
+    {
+      brand: 'powercolor',
+      model: 'fighter',
+      series: 'rx6600xt',
+      url: 'https://www.notebooksbilliger.de/powercolor+rx+6600xt+fighter+8g+grafikkarte+728565',
+    },
+    {
       brand: 'amd',
       model: '5600x',
       series: 'ryzen5600',
