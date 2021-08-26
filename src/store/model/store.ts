@@ -178,6 +178,8 @@ export type Model =
   | 'pulse'
   | 'pulse oc'
   | 'quick'
+  | 'quick308'
+  | 'quick308 black'
   | 'red devil'
   | 'red dragon'
   | 'sg oc'

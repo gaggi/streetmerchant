@@ -851,13 +851,13 @@ export const AlternateDe: Store = {
     },
     {
       brand: 'sapphire',
-      model: 'pulse gaming',
+      model: 'pulse',
       series: 'rx6600xt',
       url: 'https://www.alternate.de/html/product/1769845',
     },
     {
       brand: 'sapphire',
-      model: 'nitro+ gaming',
+      model: 'nitro+',
       series: 'rx6600xt',
       url: 'https://www.alternate.de/html/product/1769840',
     },
