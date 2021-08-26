@@ -156,6 +156,7 @@ export type Model =
   | 'merc'
   | 'merc core'
   | 'merc ultra'
+  | 'merc308'
   | 'merc308 black'
   | 'my book'
   | 'nitro+'
