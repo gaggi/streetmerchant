@@ -65,6 +65,48 @@ export const AmazonDeWarehouse: Store = {
       url: 'https://www.amazon.de/gp/offer-listing/B08H93ZRLL',
     },
     {
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: 'rx6600xt',
+      url: 'https://www.amazon.de/gp/offer-listing/B09C2BN5TL',
+    },
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: 'rx6600xt',
+      url: 'https://www.amazon.de/gp/offer-listing/B09C2BK98L',
+    },
+    {
+      brand: 'msi',
+      model: 'gaming x',
+      series: 'rx6600xt',
+      url: 'https://www.amazon.de/gp/offer-listing/B09BZKNM9D',
+    },
+    {
+      brand: 'sapphire',
+      model: 'pulse',
+      series: 'rx6600xt',
+      url: 'https://www.amazon.de/gp/offer-listing/B099Y4SYTK',
+    },
+    {
+      brand: 'sapphire',
+      model: 'nitro+',
+      series: 'rx6600xt',
+      url: 'https://www.amazon.de/gp/offer-listing/B099Y6439Y',
+    },
+    {
+      brand: 'xfx',
+      model: 'merc308',
+      series: 'rx6600xt',
+      url: 'https://www.amazon.de/gp/offer-listing/B09B4929ZV',
+    },
+    {
+      brand: 'xfx',
+      model: 'quick308',
+      series: 'rx6600xt',
+      url: 'https://www.amazon.de/gp/offer-listing/B09B46MZ3T',
+    },
+    {
       brand: 'westerndigital',
       model: 'elements',
       series: 'usb14tb',

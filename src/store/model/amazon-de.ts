@@ -481,6 +481,62 @@ export const AmazonDe: Store = {
       url: 'https://www.amazon.de/dp/B08HBJB7YD',
     },
     {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B09C2BN5TL&Quantity.1=1',
+      model: 'gaming oc',
+      series: 'rx6600xt',
+      url: 'https://www.amazon.de/dp/B09C2BN5TL',
+    },
+    {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B09C2BK98L&Quantity.1=1',
+      model: 'gaming oc',
+      series: 'rx6600xt',
+      url: 'https://www.amazon.de/dp/B09C2BK98L',
+    },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B09BZKNM9D&Quantity.1=1',
+      model: 'gaming x',
+      series: 'rx6600xt',
+      url: 'https://www.amazon.de/dp/B09BZKNM9D',
+    },
+    {
+      brand: 'sapphire',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B099Y4SYTK&Quantity.1=1',
+      model: 'pulse',
+      series: 'rx6600xt',
+      url: 'https://www.amazon.de/dp/B099Y4SYTK',
+    },
+    {
+      brand: 'sapphire',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B099Y6439Y&Quantity.1=1',
+      model: 'nitro+',
+      series: 'rx6600xt',
+      url: 'https://www.amazon.de/dp/B099Y6439Y',
+    },
+    {
+      brand: 'xfx',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B09B4929ZV&Quantity.1=1',
+      model: 'merc308',
+      series: 'rx6600xt',
+      url: 'https://www.amazon.de/dp/B09B4929ZV',
+    },
+    {
+      brand: 'xfx',
+      cartUrl:
+        'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B09B46MZ3T&Quantity.1=1',
+      model: 'quick308',
+      series: 'rx6600xt',
+      url: 'https://www.amazon.de/dp/B09B46MZ3T',
+    },
+    {
       brand: 'amd',
       cartUrl:
         'https://www.amazon.de/gp/aws/cart/add.html?ASIN.1=B08166SLDF&Quantity.1=1',
