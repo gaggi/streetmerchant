@@ -120,6 +120,12 @@ export const Cyberport: Store = {
       url: 'https://www.cyberport.de?DEEP=2001-71l',
     },
     {
+      brand: 'asus',
+      model: 'dual oc',
+      series: 'rx6600xt',
+      url: 'https://www.cyberport.de?DEEP=2e07-a0e',
+    },
+    {
       brand: 'gigabyte',
       model: 'eagle',
       series: 'rx6600xt',
