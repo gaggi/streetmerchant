@@ -61,6 +61,18 @@ export const Futurex: Store = {
       series: '3080',
       url: 'https://www.equippr.de/zotac-geforce-rtx-3080-trinity-10-gb-gddr6x-retail-2060389.html',
     },
+    {
+      brand: 'sapphire',
+      model: 'pulse',
+      series: 'rx6600xt',
+      url: 'https://www.future-x.de/sapphire-pulse-amd-radeon-rx-6600-xt-gaming-oc-8gb-gddr6-hdmi-3x-dp-p-8905866/',
+    },
+    {
+      brand: 'sapphire',
+      model: 'nitro+',
+      series: 'rx6600xt',
+      url: 'https://www.future-x.de/sapphire-nitro%2B-radeon-rx-6600-xt-gaming-oc-8gb-gddr6-hdmi-3x-dp-p-8905867/',
+    },
   ],
   name: 'futurex',
 };

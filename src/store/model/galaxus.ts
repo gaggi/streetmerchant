@@ -55,6 +55,30 @@ export const Galaxus: Store = {
       series: 'ryzen5950',
       url: 'https://www.galaxus.de/de/product/13987916',
     },
+    {
+      brand: 'asus',
+      model: 'gaming oc',
+      series: 'rx6600xt',
+      url: 'https://www.galaxus.de/de/s1/product/asus-radeon-rx-6600-xt-oc-edition-gaming-8gb-grafikkarte-16370237',
+    },
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc pro',
+      series: 'rx6600xt',
+      url: 'https://www.galaxus.de/de/s1/product/gigabyte-radeon-rx-6600-xt-gaming-oc-pro-8gb-grafikkarte-16362987',
+    },
+    {
+      brand: 'sapphire',
+      model: 'pulse oc',
+      series: 'rx6600xt',
+      url: 'https://www.galaxus.de/de/s1/product/sapphire-radeon-rx-6600-xt-gaming-oc-pulse-8gb-grafikkarte-16360565',
+    },
+    {
+      brand: 'sapphire',
+      model: 'nitro oc',
+      series: 'rx6600xt',
+      url: 'https://www.galaxus.de/de/s1/product/sapphire-radeon-rx-6600-xt-gaming-oc-nitro-8gb-grafikkarte-16360569',
+    },
   ],
   name: 'galaxus',
 };

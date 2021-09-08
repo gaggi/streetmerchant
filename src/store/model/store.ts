@@ -92,7 +92,9 @@ export type Model =
   | 'articstorm'
   | 'battle-ax'
   | 'challenger'
+  | 'challenger oc'
   | 'challenger pro'
+  | 'challenger pro oc'
   | 'crosshair viii'
   | 'desktop expansion'
   | 'dual fan'
@@ -179,6 +181,8 @@ export type Model =
   | 'pulse'
   | 'pulse oc'
   | 'quick'
+  | 'qick'
+  | 'qick308'
   | 'quick308'
   | 'quick308 black'
   | 'red devil'
@@ -233,8 +237,8 @@ export type Model =
   | 'xlr8 revel'
   | 'xlr8 revel epic x'
   | 'xlr8 uprising'
-  | 'xtreme'
-  | 'qick';
+  | 'xtreme';
+
 
 export type Link = {
   brand: Brand;
