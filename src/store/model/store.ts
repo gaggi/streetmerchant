@@ -18,6 +18,7 @@ export type Brand =
   | 'asus'
   | 'colorful'
   | 'corsair'
+  | 'dyson'
   | 'evga'
   | 'gainward'
   | 'galax'
@@ -65,7 +66,8 @@ export type Series =
   | 'xboxss'
   | 'usb14tb'
   | 'usb16tb'
-  | 'usb18tb';
+  | 'usb18tb'
+  | 'Airwrap Complete';
 
 export type Model =
   | 'test:model'
@@ -237,7 +239,9 @@ export type Model =
   | 'xlr8 revel'
   | 'xlr8 revel epic x'
   | 'xlr8 uprising'
-  | 'xtreme';
+  | 'xtreme'
+  | 'Nachtblau/Kupfer'
+  | 'Anthrazit/Fuchsia';
 
 
 export type Link = {
